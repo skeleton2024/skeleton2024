@@ -58,4 +58,3 @@ Repo: [to be organized]
 My projects may look cross-domain, but they share one theme: how AI systems can operate inside complex tasks, real environments, and long-running workflows.
 
 After exploring many application surfaces, I am now focusing on harder scientific problems that require data understanding, validation, modeling, and system-building depth.
-
